@@ -30,7 +30,7 @@ The optimized fusion sequence was translated and codon-optimized for high-level 
 
 ### 🎨 Molecular Color Mapping
 To easily distinguish the components of this engineered fusion platform, the structure is color-coded as follows:
-* 🟦 **Blue (Residues 185–309):** The anti-aggregation **Nanobody** (The therapeutic weapon).
-* 🟥 **Red (Residues 173–184):** The fully flexible **$(GGGGS)_3$ Linker** (Providing the biological elbow room).
 * ⬜ **White (Residues 1–172):** The **Ferritin subunit** (The nanocage carrier vehicle).
+* 🟥 **Red (Residues 173–184):** The fully flexible **$(GGGGS)_3$ Linker** (Providing the biological elbow room).
+* 🟦 **Blue (Residues 185–309):** The anti-aggregation **Nanobody** (The therapeutic weapon).
 * 🟩 **Green (Chain B):** The pathological **Tau Fibril target** (The seed to be blocked).
